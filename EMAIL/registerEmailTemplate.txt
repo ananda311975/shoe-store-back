@@ -1,0 +1,10 @@
+<html>
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    </head>
+    <body>
+      <p>สวัสดี คุณ : {FULL_NAME}</p>
+      <p>{DETAIL}</p>
+      <p>ได้แล้ว ทำต่อนะจ๊ะ</p>
+    </body>
+</html>
